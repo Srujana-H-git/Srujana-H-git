@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Srujana-H-git
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Srujana 
+- 👀 I’m interested in Embedded system 
+- 🌱 I’m currently learning uiux , webdev , stm32, esp32 
+- 💞️ I’m looking to collaborate on Embedded projects
+- 📫 How to reach me @1nt23ec156.srujana@nmit.ac.in 
 - 😄 Pronouns: Her /She
-- ⚡ Fun fact: ...
+
 
 <!---
 Srujana-H-git/Srujana-H-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
