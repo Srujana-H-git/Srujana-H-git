@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning uiux , webdev , stm32, esp32 , msp.
 - 💞️ I’m looking to collaborate on Embedded projects
 - 📫 How to reach me @1nt23ec156.srujana@nmit.ac.in 
-- 😄 Pronouns: Her /She
+- 😄 Pronouns: 
 
 
 <!---
