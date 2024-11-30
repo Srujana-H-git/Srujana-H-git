@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srujana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend and Embedded developer from India</h3>
 <img align="right"  alt="coding"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujana-h-git&label=Profile%20views&color=0e75b6&style=flat" alt="srujana-h-git" /> </p>
