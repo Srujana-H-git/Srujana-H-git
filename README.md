@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/srujana harlapur] target="blank"><img align="center" src="https://www.linkedin.com/in/srujana-harlapur-baa18028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="srujana harlapur" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/srujana harlapur] target="_main"><img align="center" src="https://images.app.goo.gl/C2pjCrPrfdygLMg89" alt="srujana harlapur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
