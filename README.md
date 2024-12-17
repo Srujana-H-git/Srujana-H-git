@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srujana-h-git&show_icons=true&locale=en" alt="srujana-h-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srujana-h-git&" alt="srujana-h-git" /></p>
+
