@@ -1,4 +1,4 @@
-<h1 align="center">Hiii 👋, I'm Srujana</h1>
+<h1 align="center">Hii 👋, I'm Srujana</h1>
 <h3 align="center">A passionate Frontend and Embedded developer</h3>
 <img align="right"  alt="coding"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&s">
 
