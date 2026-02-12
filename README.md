@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srujana-h-git&show_icons=true&locale=en&layout=compact" alt="srujana-h-git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srujana-h-git&show_icons=true&locale=en" alt="srujana-h-git" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srujana-H-git&show_icons=true&locale=en" alt="srujana-H-git" /></p>
 
 
